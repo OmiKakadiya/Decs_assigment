@@ -1,1 +1,3 @@
-Hi this is project
+Developed single-threaded, select, and epoll servers in C, benchmarked with custom load generators
+Built a multithreaded C server with a fixed thread pool, shared request queue, and mutex synchronization
+Built Flask inspired multithreaded C HTTP server using CivetWeb and benchmarked using httperf
